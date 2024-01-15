@@ -1,0 +1,10 @@
+venv
+.DS_Store
+.vscode
+.OTTER_LOG
+*.py[cod]
+__pycache__/
+.ipynb_checkpoints
+
+# EMACS backup files
+*~
