@@ -5,6 +5,7 @@ venv
 *.py[cod]
 __pycache__/
 .ipynb_checkpoints
+.zip
 
 # EMACS backup files
 *~
